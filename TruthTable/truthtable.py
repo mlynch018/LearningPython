@@ -1,3 +1,6 @@
+#First program created in my discrete math class
+#This was a homework assignment requring us to modify the professor's code 
+# to make a desired truth table.
 hyps = [ '(p and r) <= q', 'r or (not q)', 'q <= p']
 concl = ['(p and q) <= r']
 fst = "{0:^3s}|{1:^3s}|{2:^3s}|{3:^10s}|{4:^8s}|{5:^8s}|{6:^10s}|"
